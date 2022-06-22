@@ -10,7 +10,7 @@ body{
   font-weight: 600;
   padding: 10px 30px;
   border-radius: 100px;
-  background: gray;
+  background: rgb(116, 185, 176);
   border: none;
   position: relative;
   top: -9px;
@@ -21,7 +21,7 @@ body{
 .btn{
   width: 19.62%;
   padding: 0.5rem 1rem;
-  background-color:#2ab90e;
+  background-color:rgba(187, 128, 0, 0.933);
   color: #fff;
   font-size: 1.1rem;
   border: none;
